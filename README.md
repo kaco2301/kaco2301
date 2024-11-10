@@ -17,4 +17,7 @@
 
 
 ### Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://kacodang.tistory.com/)](https://kacodang.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaco2301@gmail.com)](kaco2301@gmail.com)
+
 
